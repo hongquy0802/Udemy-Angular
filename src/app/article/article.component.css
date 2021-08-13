@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+}
+
+.item {
+  width: 50px;
+}
+
+.item1 {
+  background-color: rgb(145, 154, 161);
+  width: 30%;
+  text-align: center;
+}
+
+.item2 {
+  width: 70%;
+  padding-left: 20px;
+  border: 1px outset;
+}
+
+.pad-bottom-10 {
+  padding-bottom: 10px;
+}
